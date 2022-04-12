@@ -10,3 +10,30 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+#post {
+    width: 500px;
+}
+i {
+    font-size: 23px;
+}
+.avatar {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.left-icons {
+    padding-right: 5px;
+}
+.right-icons {
+    padding-left: 10px;
+
+}
+.comment {
+    border: none;
+    padding-left: 15px;
+}
+.IGLogo {
+    font-family: 'Pacifico', cursive;
+}
